@@ -7,3 +7,4 @@ nconf.env();
 var val = nconf.get('OS');
 
 console.log('OS환경변수의 값' + val);
+//

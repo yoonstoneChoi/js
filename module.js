@@ -16,3 +16,4 @@ calc.add = function(a, b) {
 console.log('모듈로 분리하기 전 calc.add ' + calc.add(10,10));
 
 // 함수 실행은 소괄호다. 
+//

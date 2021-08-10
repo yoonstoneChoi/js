@@ -37,3 +37,4 @@ console.log('path : %s', __dirname); //파일 경로 __dirname
 // 전역변수라 칭한다. 전역객체
 // 어디서든 사용할 수 있는 것이 console이다. 
 
+//

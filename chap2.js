@@ -11,3 +11,4 @@ process.argv.forEach(function(element, index) {
 
 // 자바스크립트는 함수를 변수에 할당할 수 있다. 
 // 함수를 일급 객체로 다룬다.(중요하게)
+//
